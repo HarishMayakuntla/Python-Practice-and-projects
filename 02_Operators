@@ -1,0 +1,101 @@
+# Operrators
+ -Operators are special symbols that perform operations on variables and values.
+#Types of Operators in Python
+
+#1.Arithmetic Operators ########
+-Used to perform mathematical calculations.
+-------------------------------------------------------
+| Operator | Meaning             | Example   | Output |
+| -------- | ------------------- | --------- | ------ |
+| `+`      | Addition            | `10 + 5`  | `15`   |
+| `-`      | Subtraction         | `10 - 5`  | `5`    |
+| `*`      | Multiplication      | `10 * 5`  | `50`   |
+| `/`      | Division            | `10 / 5`  | `2.0`  |
+| `//`     | Floor Division      | `10 // 3` | `3`    |
+| `%`      | Modulus (Remainder) | `10 % 3`  | `1`    |
+| `**`     | Exponent (Power)    | `2 ** 3`  | `8`    |
+
+
+# 2.Comparison (Relational) Operators  ######
+-Used to compare two values.
+---------------------------------------------------------
+| Operator | Meaning               | Example  | Output  |
+| -------- | --------------------- | -------- | ------- |
+| `==`     | Equal                 | `5 == 5` | `True`  |
+| `!=`     | Not Equal             | `5 != 3` | `True`  |
+| `>`      | Greater Than          | `5 > 3`  | `True`  |
+| `<`      | Less Than             | `5 < 3`  | `False` |
+| `>=`     | Greater Than or Equal | `5 >= 5` | `True`  |
+| `<=`     | Less Than or Equal    | `5 <= 3` | `False` |
+
+
+# 3. Assignment Operators ######
+-Used to assign values to variables.
+---------------------------------------
+| Operator | Example   | Same As      |
+| -------- | --------- | ------------ |
+| `=`      | `a = 5`   | Assign value |
+| `+=`     | `a += 2`  | `a = a + 2`  |
+| `-=`     | `a -= 2`  | `a = a - 2`  |
+| `*=`     | `a *= 2`  | `a = a * 2`  |
+| `/=`     | `a /= 2`  | `a = a / 2`  |
+| `%=`     | `a %= 2`  | `a = a % 2`  |
+| `//=`    | `a //= 2` | `a = a // 2` |
+| `**=`    | `a **= 2` | `a = a ** 2` |
+
+# 4. Logical Operators ########
+-Used with Boolean (True/False) values.
+------------------------------------------------------------
+| Operator | Meaning                                        |
+| -------- | ---------------------------------------------- |
+| `and`    | Returns True if both conditions are True       |
+| `or`     | Returns True if at least one condition is True |
+| `not`    | Reverses the result                            |
+
+#5. Identity Operators  #######
+-Check whether two variables refer to the same object.
+--------------------------------
+| Operator | Meaning           |
+| -------- | ----------------- |
+| `is`     | Same object       |
+| `is not` | Different objects |
+
+#6. Membership Operators  ######
+-Check if a value exists in a sequence.
+-----------------------------
+| Operator | Meaning        |
+| -------- | -------------- |
+| `in`     | Exists         |
+| `not in` | Does not exist |
+
+# 7. Bitwise Operators ########
+-Operate on binary numbers.
+-------------------------------
+| Operator | Meaning     |    |
+| -------- | ----------- | -- |
+| `&`      | AND         |    |
+| `        | `           | OR |
+| `^`      | XOR         |    |
+| `~`      | NOT         |    |
+| `<<`     | Left Shift  |    |
+| `>>`     | Right Shift |    |
+
+
+
+Operators are a special num. that are usedto performs on variables and keys.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
