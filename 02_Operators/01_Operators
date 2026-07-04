@@ -16,7 +16,7 @@
 | `**`     | Exponent (Power)    | `2 ** 3`  | `8`    |
 
 
-# 2.Comparison (Relational) Operators  ######
+# 2.Comparison (relational) Operators  ######
 -Used to compare two values.
 ---------------------------------------------------------
 | Operator | Meaning               | Example  | Output  |
