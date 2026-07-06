@@ -1,0 +1,20 @@
+========================================
+        python input and output
+=========================================
+
+-Input means taking data from the user.
+-Output means displaying data to the user.
+
+-------------------------------------------------------------------------------------
+| Function  | Purpose                                      | Example                |
+| --------- | -------------------------------------------- | ---------------------- |
+| `input()` | Takes input from the user                    | `name = input()`       |
+| `print()` | Displays output                              | `print(name)`          |
+| `int()`   | Converts input to an integer                 | `int(input())`         |
+| `float()` | Converts input to a decimal number           | `float(input())`       |
+| `f""`     | Formats output with variables                | `print(f"Age: {age}")` |
+| `sep`     | Changes the separator between printed values | `print(1, 2, sep="-")` |
+| `end`     | Changes what is printed at the end           | `print("Hi", end=" ")` |
+--------------------------------------------------------------------------------------
+
+
