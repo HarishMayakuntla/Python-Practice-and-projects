@@ -1,0 +1,15 @@
+# Python Input and Output
+Input means taking data from the user.
+Output means displaying data to the user.
+
+# types of 
+ 1. Output using print()
+ 2. Input using input()
+ 3. Input Integer
+ 4. Input Float
+ 5. Multiple Inputs
+ 6. Multiple Integer Inputs
+ 7.Formatted Output (f-string)
+ 8. Print on Same Line
+ 9. Separator (sep)
+ 10. Escape Characters
