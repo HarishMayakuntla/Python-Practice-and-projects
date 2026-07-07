@@ -1,0 +1,27 @@
+## type converstions
+-In Python, type conversion means changing a value from one data type to another.
+
+# there are two types
+-implicit type converstion (automatic)
+-Explicit Type Conversion (Type Casting)
+
+## implicit type converstion (automatic)
+-Python automatically converts one data type to another when needed
+ like int value adds float it gives float
+
+## Explicit Type Conversion (Type Casting)
+#Primitive Data Types in Python
+
+
+-int   ----------------->  float,string,boolean,complex
+
+-float -----------------> int,string,boolean,complex
+
+-bool ------------------> int,float,string,complex
+
+-str -------------------> float,string,boolean,complex
+
+-complex ---------------> string,boolean
+
+ we will soon each primitive datatype 
+i will give brief explaintion .
