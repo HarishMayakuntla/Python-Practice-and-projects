@@ -14,7 +14,6 @@ Output means displaying data to the user.
  9. Separator (sep)
  10. Escape Characters
 
-'''
 
 -Input means taking data from the user.
 -Output means displaying data to the user.
@@ -29,4 +28,4 @@ Output means displaying data to the user.
 | `f""`     | Formats output with variables                | `print(f"Age: {age}")` |
 | `sep`     | Changes the separator between printed values | `print(1, 2, sep="-")` |
 | `end`     | Changes what is printed at the end           | `print("Hi", end=" ")` |
-------------------------------------------------------------------------------------- '''
+------------------------------------------------------------------------------------- 
