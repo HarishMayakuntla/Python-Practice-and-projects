@@ -48,3 +48,10 @@ print(b)  #  it is gives '25'
 print(type(b))   # <class 'str'>
 
 
+'''
+git status
+git add .
+git commit -m "Added primitive type conversion practice in Python"
+git push origin maingit status
+
+'''
