@@ -1,0 +1,42 @@
+'''
+# primitive data type 
+    -A primitive data type is a basic,
+      built-in data type that stores a single value.
+
+
+# There are
+ 
+ int --- int is represents only must be numbers
+ float---float is reprasents  only decimal values
+ complex  --- it is represents real value + imaginary value
+ boolean ---- it's check the condition is True or False
+ string ------ it's represnts a collection ccharacters in between quotes('' or "")
+'''
+
+# inter (int())
+
+a=52
+print(type(a)) # output = <class 'int'>
+
+
+# float (float())
+
+b=2.57
+print(type(b)) # output = <class 'float'>
+
+
+
+#complex 
+
+c= 2+5j  # here 2 is real part , 5j is imaginary part
+print(type(c)) # output = <class 'complex'>
+
+# boolean(bool())
+
+c=True  # take False also but first letter must be capital
+print(type(c)) # output = <class 'bool'>
+
+
+# string (str)
+c='i am harish mayakuntla '
+print(type(c)) # output = <class 'str'>
