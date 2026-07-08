@@ -44,4 +44,5 @@ print(type(b)) # gives <class 'bool'>
 a=65.0
 b=complex(a)
 print(b)     # here gives 65+0j
-print(type(b))
+print(type(b))# <class 'complex'>
+

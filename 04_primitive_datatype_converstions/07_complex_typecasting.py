@@ -29,4 +29,11 @@ print(type(str(a)))#   and it is <class 'str'>
 a = 3 + 4j
 b=bool(a)
 print(b)   #   showes True
-print(type(b))   #   showes False
+print(type(b))   #   showes <class 'bool'>
+
+
+a= 0j
+b=bool(a)
+print(b)       #   showes False
+print(type(b)) #   showes <class 'bool'>
+

@@ -54,5 +54,6 @@ print(type(b)) #  it showes   <class 'complex'>
 
 a=False
 b=complex(a)
-print(b)     # here gives 1
-print(type(b)) #  it showes   <class 'int'>
+print(b)     # here gives 0j
+print(type(b)) #  it showes   <class 'complex'>
+
