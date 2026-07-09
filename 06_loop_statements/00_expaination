@@ -1,0 +1,84 @@
+##  loop  statements
+
+   - it's a statement is used repeatedly until the cindition is satisfy
+
+   # there are 
+    - for loop
+    - while loop
+
+   ##  for loop
+   - A for loop is used to iterate over a sequence such as a string, list, tuple, set, dictionary, or range.
+
+   ------simple  syntax----
+   for variable in sequence:
+           # code block
+
+-----------range syntax--------
+    for vaariable  in range(start,stop,step):
+            # code block
+
+
+## while loop
+ - A while loop executes as long as the condition is True.
+
+----------simpple syntax ---------
+while condition:
+    # code
+
+--------------infinity loop ---------
+while True;
+     # code
+
+
+## nested loop
+- means the loop contain the anther loop inside it.
+
+------------syntax------
+for variable in sequence:
+   for variable in range(): or for variable in sequence:
+         # block of code
+
+
+## contril statement
+ -  in which to control the loop why because if i get anwer again it's looping until the sequence is compled.
+
+    # break
+    -stops the loop immediately.
+     -------syntax------
+      for variable in sequence:
+          #block of code
+          break
+
+    # continue
+    - it will the skip the present statement.
+         -------syntax------
+      for variable in sequence:
+          #block of code
+          continue
+
+    # pass
+    - its works as a place holder ,mean the condition is true but it can't give otput.
+
+     -------syntax------
+      for variable in sequence:
+          pass
+
+## else in loop
+-The else block executes only if the loop completes normally(without abreak).
+  -------syntax------
+      for variable in sequence:
+          #block of code
+      else:
+          #bolck of code 
+
+
+
+
+# difference betweeen for and while
+ 
+ # loop                                             # while
+ -repeating over a sequence                         - repeating untill the condition is True
+ -here we know the iterations                       - here we can't predict how many iterations occurs
+ - condition updately automatic                     - condition updately manually
+ -rare cases infinity loop occurs                   - there is high chances infinity loops will occur
+
