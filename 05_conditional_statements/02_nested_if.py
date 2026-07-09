@@ -6,10 +6,10 @@
 age = 20
 citizen = True
 
-if age >= 18:
-    if citizen:
+if age >= 18:       # here check on one statement
+    if citizen:     # inside there is another statement
         print("Eligible to vote")
     else:
         print("Not a citizen")   
 else:
-    print("Too young")
+    print("Too young")          # out put is : Eligible to voteS

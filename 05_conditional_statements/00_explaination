@@ -14,7 +14,7 @@
  
 # -------------- key points--------
 
-if checks a condition.
+if checks a condition,if it's True go inside  ,False it never execute
 else runs when the condition is False.
 elif checks additional conditions.
 Python uses indentation (4 spaces) to define code blocks.
