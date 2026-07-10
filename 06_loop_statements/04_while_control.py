@@ -1,5 +1,5 @@
 ##  infinity loop
-'''
+
 # while True:
 #     print('hello world')    # it give infinity values
 
@@ -22,12 +22,23 @@ while i < 5:
     i += 1               # here i become 5 but it skip 3
     if i == 3:
         continue
-    print(i)              '''
+    print(i)              
 
 ## pass with while
 # The pass statement is a placeholder that does nothing.
+
+i = 1
+while i <= 5:
+    pass       # it cannot give any output it execute
+    i += 1 
+
+
+## else with while
+# The else block executes only if the loop ends normally.
 i = 1
 
-while i <= 5:
-    pass
-    i += 1
+while i <= 3:
+    print(i)
+    i += 1                 # it will give normal output 
+else:
+    print("Loop Finished")
