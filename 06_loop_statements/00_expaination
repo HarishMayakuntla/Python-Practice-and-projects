@@ -39,7 +39,7 @@ for variable in sequence:
          # block of code
 
 
-## contril statement
+## control statement
  -  in which to control the loop why because if i get anwer again it's looping until the sequence is compled.
 
     # break
@@ -64,7 +64,7 @@ for variable in sequence:
           pass
 
 ## else in loop
--The else block executes only if the loop completes normally(without abreak).
+-The else block executes only if the loop completes normally.
   -------syntax------
       for variable in sequence:
           #block of code

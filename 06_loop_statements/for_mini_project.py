@@ -1,3 +1,5 @@
+### simple calculator
+
 for i in range(6):
     print("\n1. Add")
     print("2. Subtract")
