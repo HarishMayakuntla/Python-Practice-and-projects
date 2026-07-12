@@ -1,6 +1,6 @@
 ## ================ String is Immutable ===================
-# name = "Python"
-# name[0] = "J"  #  it showes TypeError we cannot modify after creation
+name = "Python"
+name[0] = "J"  #  it showes TypeError we cannot modify after creation
 
 
 ## ================= Indexing ==============================
@@ -67,7 +67,7 @@ print("apple" == "Apple") # False
 print("cat" > "bat")      # True
 
 ## ============= new line ===========
-print('hello\npython')
+print('hello\npython') # it give newline in helo and python
 
 
 
@@ -85,6 +85,4 @@ print('hello\npython')
 
 
 
-# git add .
-# git commit -m "Added string practice programs"
-# git push origin main
+
