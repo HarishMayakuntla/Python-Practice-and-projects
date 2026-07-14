@@ -1,6 +1,7 @@
 ## ================================ list ============================================
 - list is collection of different datatypes as well as same data type
 - we can store muitiple values in single variable
+- it represent in between []
 - it is a non primitive ,build-in-functions 
 - it's is sequence collecton of values 
 - list is mutable or changable or easy to modify

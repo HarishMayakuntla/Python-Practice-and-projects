@@ -86,3 +86,5 @@ print(type(a[2])) # <class 'int'>
 
 print(a[3])   # o/p : 70.0
 print(type(a[3]))# <class 'float'>
+
+
