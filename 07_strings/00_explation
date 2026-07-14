@@ -1,0 +1,41 @@
+## ============== string ===============
+- string is set of characters or group ofcharacters.
+- it is represents in between ' '  or " "
+-this one of the best datatype to handling the text.
+
+-Strings cannot be changed after creation.
+
+Single quotes: 'Hello'
+
+Double quotes: "World"
+
+Triple quotes: """ Used for multi-line strings or docstrings """  or ''' -------'''
+
+
+
+## -----------Common Operations----------
+
+-Concatenation: Joining strings with +
+
+-Repetition: Using *
+
+-Indexing: Accessing characters by position
+
+-Slicing: Extracting substrings
+
+## -----------Useful Methods ----------
+
+-upper() → "hello".upper() → "HELLO"
+
+-lower() → "HELLO".lower() → "hello"
+
+-strip() → " hi ".strip() → "hi"
+
+-split() → "a,b,c".split(",") → ['a', 'b', 'c']
+
+-join() → " ".join(["Python", "is", "fun"]) → "Python is fun"
+
+## --------- String Formatting --------
+
+- f-strings 
+- format()

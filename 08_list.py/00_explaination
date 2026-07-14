@@ -1,0 +1,38 @@
+## ================================ list ============================================
+- list is collection of different datatypes as well as same data type
+- we can store muitiple values in single variable
+- it is a non primitive ,build-in-functions 
+- it's is sequence collecton of values 
+- list is mutable or changable or easy to modify
+- it allowes duplicate values 
+- it has indexing 
+
+
+
+## ============COMMON METHODS ======================
+
+| Method             | Purpose                     |
+| ------------------ | --------------------------- |
+| `append(x)`        | Add one element             |
+| `extend(iterable)` | Add multiple elements       |
+| `insert(i, x)`     | Insert at index             |
+| `remove(x)`        | Remove first matching value |
+| `pop([i])`         | Remove and return element   |
+| `clear()`          | Remove all elements         |
+| `index(x)`         | Find index of value         |
+| `count(x)`         | Count occurrences           |
+| `sort()`           | Sort the list               |
+| `reverse()`        | Reverse the list            |
+| `copy()`           | Create a shallow copy       |
+
+
+## ================ use some built-in-functions============
+
+- len(list)   it will show the what is the length of the list
+- in          it is membership operator it checks the value  in the present list or not
+- max         it will give highest value of your list 
+- min         it will give least value of your list
+
+##  list Comprehension
+## use in looping
+

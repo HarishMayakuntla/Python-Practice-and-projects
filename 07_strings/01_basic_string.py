@@ -17,3 +17,11 @@ print(a)
 ## -------------  Triple quotes  using """
 a= """ you know who am i ?  """ # it takes as string
 print(a)
+
+
+
+
+
+# # here i was  wrote the differnt types to represents to string
+
+

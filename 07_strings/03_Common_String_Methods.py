@@ -92,9 +92,7 @@ print(text.endswith("ing"))   # True
 
 
 
-git add .
-git commit -m "Added string practice programs"
-git push origin main
+
 
 
 
