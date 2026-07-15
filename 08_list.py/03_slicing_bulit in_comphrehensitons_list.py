@@ -37,6 +37,13 @@ print(sorted(numbers))# [1,1, 2, 8,9]   it give an order list
 
 
 
+## ================================== List comphrehensions =====================
+# new_list = [expression for item in iterable]
+# we can write single line code in between
+
+squares = [x * x for x in range(1, 6)]
+
+print(squares)
 
 
 
@@ -44,8 +51,7 @@ print(sorted(numbers))# [1,1, 2, 8,9]   it give an order list
 
 
 
-
-# git status
-# git add .
-# git commit -m "Added list methods examples"
-# git push origin main
+git status
+git add .
+git commit -m "Added list methods examples"
+git push origin main
