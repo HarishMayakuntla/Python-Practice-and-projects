@@ -30,6 +30,19 @@ print(type(a))  #  <class 'tuple'>
 
 
 
+
+## ============== single element in Tuple ==================
+
+n = (10)  # here it takes as int
+print(type(n))  #  o/p : < class 'int' >
+
+
+n = (10,) # here it takes as tuple why because after the element we give ,
+print(type(n))  #   <class 'tuple'>
+
+
+
+
 ## -------------------------allowes duplicates ------------------------------
 
 b = (10,20,10,30,10,30,50)
@@ -38,10 +51,17 @@ print(b) # o/p :(10,20,10,30,10,30,50)
 print(type(b))  #  <class 'tuple'>
 
 
+
+
+
 ## -------------- tuple is mutable -------------
 # we cannot modify the Tuple 
 
-# b = (10, 20, 30)
+b = (10, 20, 30)
 
-# b[1] = 50
-# print(b)  # o/p : TypeError: 'tuple' object does not support item assignment
+b[1] = 50
+print(b)  # o/p : TypeError: 'tuple' object does not support item assignment
+
+
+
+
