@@ -15,3 +15,8 @@ for player in players:
 
 print("Top Scorer:", highest[0])
 print("Runs:", highest[1])
+
+
+# output : 
+#  Top Scorer: Rohit
+#  Runs: 264
