@@ -1,0 +1,36 @@
+##  ================ Tuple ===================
+
+-A tuple is a built-in Python data type used to store multiple items in a single variable.
+-it's is order collection
+-it's immutable or unchangable or can't modify
+-it allow duplicates
+-can store differt data types and same data data types
+- this is primitive and built in 
+- it represent in between ()
+
+# ========= Tuple Methods ==========
+-count()
+-index()
+
+# ============ built in fuction ========
+-len()
+-max()
+-min()
+-sum()
+
+## ===== adding tuples=========
+-concatination 
+
+
+## ============ difference between list and tuple ================
+
+
+        List          |          Tuple
+------------------------------------------------
+- it is mutable       | - unmutable  
+- allow duplicates    | - allow duplicates 
+- it represent []     | - it rpresent ()
+- lot of methods      | - only 2 methods                   
+-it's performence slow| - it's performence is very high
+
+            
