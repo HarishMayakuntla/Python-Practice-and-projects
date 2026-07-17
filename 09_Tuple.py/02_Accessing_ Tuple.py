@@ -30,4 +30,17 @@ print(a[1:4]) # (20, 30, 40)
 print(a[:3])  #  (10, 20, 30)
 print(a[2:])  # (30, 40, 50)
 
-print(a[::-1])
+print(a[::-1]) # reverse Tuple o/p: (50, 40, 30, 20, 10)
+
+
+# ------------------ Tuple Unpacking -----------------
+
+a = (10, 20, 30)
+
+x , y ,z = a
+
+print(x) # o/p : 10
+print(y) # o/p :20
+print(z)  # o/p :30
+
+

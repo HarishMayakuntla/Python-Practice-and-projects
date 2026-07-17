@@ -38,7 +38,7 @@ print(type(n))  #  o/p : < class 'int' >
 
 
 n = (10,) # here it takes as tuple why because after the element we give ,
-print(type(n))  #   <class 'tuple'>
+print(type(n))  #   <class 'tuple'> 
 
 
 

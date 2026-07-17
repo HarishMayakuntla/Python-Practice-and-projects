@@ -35,7 +35,7 @@ print(a.index(30)) # o/p :  2
 a=(10,20,30,True)
 b=('hari',20.32,5+6j,False)
 
-print(a+b)
+print(a+b) # o/p : (10, 20, 30, True, 'hari', 20.32, (5+6j), False)
 
 
 
