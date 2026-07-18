@@ -1,0 +1,52 @@
+## ========== Dictionary (dict) in Python =============
+
+- A dictionary is a built-in Python data type that stores data in key-value pairs.
+
+- Mutable (can be changed)
+- Ordered (Python 3.7+)
+- Keys must be unique
+- Values can be duplicated
+- Fast lookup by key
+
+## === syntax ====
+ 
+variable = {
+    "key": "value",
+    "key": value,
+    "key": "value"
+}
+
+print(vatiable)
+
+
+## ======  dict methods =======
+
+
+| Method         | Description                          |
+| -------------- | ------------------------------------ |
+| `get()`        | Returns value for a key              |
+| `keys()`       | Returns all keys                     |
+| `values()`     | Returns all values                   |
+| `items()`      | Returns key-value pairs              |
+| `update()`     | Updates dictionary                   |
+| `pop()`        | Removes a key                        |
+| `popitem()`    | Removes last item                    |
+| `clear()`      | Removes all items                    |
+| `copy()`       | Returns a copy                       |
+| `setdefault()` | Returns value; creates key if absent |
+| `fromkeys()`   | Creates dictionary from keys         |
+
+
+## ==== nested dict =====
+
+- A nested dictionary is a dictionary inside another dictionary.
+
+- syntax:
+variable = {
+    key1: {sub_key1: value1, sub_key2: value2},
+    key2: {sub_key1: value1, sub_key2: value2}
+}
+
+
+
+
