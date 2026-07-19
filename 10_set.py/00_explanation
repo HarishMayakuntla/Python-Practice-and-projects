@@ -1,0 +1,38 @@
+## =============== set =============
+
+- A set is a built-in Python data type used to store unique elements in data types or same datatypes.
+
+- Stores unique values (no duplicates)
+- Unordered (items have no fixed position)
+- It automatically removes duplicate values 
+- it is useful for fast membership testing and set operations like union and intersection
+- Does not support indexing or slicing
+- Elements must be hashable (e.g., numbers, strings, tuples)
+
+
+##  ======================= set methods ==================
+
+| Method                   | Description                                  |
+| ------------------------ | -------------------------------------------- |
+| `add(x)`                 | Add one element                              |
+| `update(iterable)`       | Add multiple elements                        |
+| `remove(x)`              | Remove element (error if absent)             |
+| `discard(x)`             | Remove element (no error if absent)          |
+| `pop()`                  | Remove a random element                      |
+| `clear()`                | Remove all elements                          |
+| `copy()`                 | Return a copy of the set                     |
+| `union()`                | Combine two sets                             |
+| `intersection()`         | Return common elements                       |
+| `difference()`           | Return elements in one set but not the other |
+| `symmetric_difference()` | Return elements present in only one set      |
+
+##  ===== frozen set ==========
+
+- A frozenset is an immutable version of a set.
+
+- Stores unique elements
+- Unordered
+- No duplicate values
+- Cannot add, remove, or update elements after creation
+
+
