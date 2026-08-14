@@ -220,7 +220,10 @@ finally:
 Cannot divide by zero
 Execution completed
 
-
+git status
+git add .
+git commit -m "Added Python  practice programs"
+git push origin main
 
 
 
